@@ -1,0 +1,44 @@
+.container{
+    background-color: rgb(235, 235, 235);
+}
+img{
+    height: 600px;
+    background-size: contain;
+    background-position: center;
+}
+.cname{
+    margin-top: -26%;
+    margin-left: auto;
+    /* margin: auto; */
+    text-align: center;
+    /* text-size-adjust: 70px; */
+}
+h1{
+    size: 100px;
+    height: 40px;
+}
+.imgd{
+    height: 200px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.imgab{
+    background-size: contain;
+}
+
+.end{
+    text-align: center;
+    margin: auto;
+}
+input{
+    margin: auto;
+    display: block;
+    width: 400px;
+    height: 40px;
+}
+
+.column{
+    width: 50%;
+    float: left;
+}
